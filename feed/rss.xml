@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title>
+			<![CDATA[Jovens IDE]]>
+		</title>
+		<description>
+			<![CDATA[Pois disse Deus: IDE por todo o mundo e pregai o evangelho a toda criatura, e é isto que estamos fazendo, pregando o evangelho a jovens que queiram ouvir a palavra!]]>
+		</description>
+		<link>https://anchor.fm/podcastjovenside</link>
+		<image>
+			<url>https://danielfersilva.github.io/podcastjovenside/logo.jpg</url>
+			<title>Jovens IDE</title>
+			<link>https://anchor.fm/podcastjovenside</link>
+		</image>
+		<generator>TheDev Audio</generator>
+		<lastBuildDate>Mon, 07 Nov 2022 06:15:11 GMT</lastBuildDate>
+		<atom:link href="https://danielfersilva.github.io/podcastjovenside/feed/rss.xml" rel="self" type="application/rss+xml"/>
+		<author>
+			<![CDATA[Daniel Ferreira]]>
+		</author>
+		<copyright>
+			<![CDATA[Daniel Ferreira]]>
+		</copyright>
+		<language>
+			<![CDATA[pt]]>
+		</language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Daniel Ferreira</itunes:author>
+		<itunes:summary>Pois disse Deus: IDE por todo o mundo e pregai o evangelho a toda criatura, e é isto que estamos fazendo, pregando o evangelho a jovens que queiram ouvir a palavra!</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Daniel Ferreira</itunes:name>
+			<itunes:email>jovenside@danielferreira.ga</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Christianity"/></itunes:category>
+		<itunes:image href="https://danielfersilva.github.io/podcastjovenside/logo.jpg"/>
+		<item>
+			<title>
+				<![CDATA[Jovens IDE (Trailer)]]>
+			</title>
+			<link>https://anchor.fm/podcastjovenside/episodes/ep-e1qa1n6</link>
+			<guid isPermaLink="false">7d9fded2-76a9-4b49-838c-6ec1585a8469</guid>
+			<dc:creator>
+				<![CDATA[Daniel Ferreira]]>
+			</dc:creator>
+			<pubDate>Sat, 05 Nov 2022 20:03:23 GMT</pubDate>
+			<enclosure url="https://danielfersilva.github.io/podcastjovenside/mp3/episodiotrailer.m4a" length="676795" type="audio/x-m4a"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:00:41</itunes:duration>
+			<itunes:image href="https://danielfersilva.github.io/podcastjovenside/logo.jpg"/>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
