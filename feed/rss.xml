@@ -12,15 +12,15 @@
 		<description>
 			<![CDATA[Pois disse Deus: IDE por todo o mundo e pregai o evangelho a toda criatura, e é isto que estamos fazendo, pregando o evangelho a jovens que queiram ouvir a palavra!]]>
 		</description>
-		<link>https://anchor.fm/podcastjovenside</link>
+		<link>https://podcastjovenside.github.io/</link>
 		<image>
-			<url>https://danielfersilva.github.io/podcastjovenside/logo.jpg</url>
+			<url>https://podcastjovenside.github.io/logo.jpg</url>
 			<title>Jovens IDE</title>
-			<link>https://anchor.fm/podcastjovenside</link>
+			<link>https://podcastjovenside.github.io/</link>
 		</image>
 		<generator>TheDev Audio</generator>
 		<lastBuildDate>Mon, 07 Nov 2022 06:15:11 GMT</lastBuildDate>
-		<atom:link href="https://danielfersilva.github.io/podcastjovenside/feed/rss.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://podcastjovenside.github.io/feed/rss.xml" rel="self" type="application/rss+xml"/>
 		<author>
 			<![CDATA[Daniel Ferreira]]>
 		</author>
@@ -41,12 +41,12 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Christianity"/></itunes:category>
-		<itunes:image href="https://danielfersilva.github.io/podcastjovenside/logo.jpg"/>
+		<itunes:image href="https://podcastjovenside.github.io/logo.jpg"/>
 		<item>
 			<title>
 				<![CDATA[Jovens IDE (Trailer)]]>
 			</title>
-			<link>https://anchor.fm/podcastjovenside/episodes/ep-e1qa1n6</link>
+			<link>https://podcastjovenside.github.io/episodiotrailer.html</link>
 			<guid isPermaLink="false">7d9fded2-76a9-4b49-838c-6ec1585a8469</guid>
 			<dc:creator>
 				<![CDATA[Daniel Ferreira]]>
@@ -55,7 +55,7 @@
 			<enclosure url="https://dts.podtrac.com/redirect.m4a/danielfersilva.github.io/podcastjovenside/mp3/episodiotrailer.m4a" length="676795" type="audio/x-m4a"/>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:00:41</itunes:duration>
-			<itunes:image href="https://danielfersilva.github.io/podcastjovenside/logo.jpg"/>
+			<itunes:image href="https://podcastjovenside.github.io/logo.jpg"/>
 			<itunes:episodeType>trailer</itunes:episodeType>
 		</item>
 	</channel>
