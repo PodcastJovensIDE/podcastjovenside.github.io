@@ -42,7 +42,24 @@
 		<itunes:category text="Religion &amp; Spirituality">
 			<itunes:category text="Christianity"/></itunes:category>
 		<itunes:image href="https://podcastjovenside.github.io/logo.jpg"/>
-		<item>
+			<item>
+			<title><![CDATA[Episódio 1: Evangelismo (20/11/2022)]]></title>
+			<description><![CDATA[<p>Primeiro episódio do Podcast, já abrindo com chave de ouro, este episódio se passa no evangelismo realizado pelo projeto na praça do Canta Galo no domingo (dia 20/11/2022).</p>
+]]></description>
+			<link>https://podcastjovenside.github.io/episodio1.html</link>
+			<guid isPermaLink="false">d4b513b8-6fd2-4efa-ac24-7acd7898e856</guid>
+			<dc:creator><![CDATA[Daniel Ferreira]]></dc:creator>
+			<pubDate>Sun, 20 Nov 2022 21:33:40 GMT</pubDate>
+			<enclosure url="https://dts.podtrac.com/redirect.m4a/danielfersilva.github.io/podcastjovenside/mp3/episodio1.m4a" length="93385442" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Primeiro episódio do Podcast, já abrindo com chave de ouro, este episódio se passa no evangelismo realizado pelo projeto na praça do Canta Galo no domingo (dia 20/11/2022).&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:36:14</itunes:duration>
+			<itunes:image href="https://podcastjovenside.github.io/logo.jpg"/>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+			<item>
 			<title>
 				<![CDATA[Jovens IDE (Trailer)]]>
 			</title>
