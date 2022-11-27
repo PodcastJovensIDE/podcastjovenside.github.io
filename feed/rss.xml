@@ -43,6 +43,24 @@
 			<itunes:category text="Christianity"/></itunes:category>
 		<itunes:image href="https://podcastjovenside.github.io/logo.jpg"/>
 			<item>
+			<title><![CDATA[Episódio 2: Culto com os jovens (11/2022)]]></title>
+			<description><![CDATA[<p>Segundo episódio do podcast, este se passa no culto com os jovens realizado em nossa filial do canta galo.</p>
+]]></description>
+			<link>https://podcastjovenside.github.io/episodio2.html</link>
+			<guid isPermaLink="false">4303387c-e4c3-46bf-a7f7-588bbe187156</guid>
+			<dc:creator><![CDATA[Daniel Ferreira]]></dc:creator>
+			<pubDate>Sat, 26 Nov 2022 23:59:00 GMT</pubDate>
+			<enclosure url="https://dts.podtrac.com/redirect.m4a/danielfersilva.github.io/podcastjovenside/mp3/episodio2.m4a" length="156350039" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Segundo episódio do podcast, este se passa no culto com os jovens realizado em nossa filial do canta galo.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>02:41:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/33640983/33640983-1669525326138-51a113b442da5.jpg"/>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
+			<item>
 			<title><![CDATA[Episódio 1: Evangelismo (20/11/2022)]]></title>
 			<description><![CDATA[<p>Primeiro episódio do Podcast, já abrindo com chave de ouro, este episódio se passa no evangelismo realizado pelo projeto na praça do Canta Galo no domingo (dia 20/11/2022).</p>
 ]]></description>
